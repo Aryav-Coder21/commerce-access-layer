@@ -261,7 +261,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **Abdulazizov**
-- GitHub: [@Aryav-Coder21](https://github.com/Aryav-Coder21/commerce-access-layer.git))
+- GitHub: [@Aryav-Coder21](https://github.com/Aryav-Coder21/commerce-access-layer.git)
 - Email: [yashvarshney57@gmail.com](mailto:yashvarshney57@gmail.com)
 
 ## 🙏 Acknowledgments
